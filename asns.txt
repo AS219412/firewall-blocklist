@@ -3,4 +3,6 @@
 # ASNs that have been mass port scanning, targeting infra, ignnored abuse complaints
 #
 #
-AS215117 # Ignored abuse complaint
+AS215117 # HOSTERDADDY | Ignored abuse complaint
+AS398324 # Censys| Security scanners commonly used by hackers
+AS211298 # Driftnet | Security scanners commonly used by hackers
