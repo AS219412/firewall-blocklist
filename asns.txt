@@ -1,0 +1,6 @@
+# ASN block list
+#
+# ASNs that have been mass port scanning, targeting infra, ignnored abuse complaints
+#
+#
+AS215117 # Ignored abuse complaint
