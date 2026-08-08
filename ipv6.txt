@@ -1,0 +1,5 @@
+# IP range block list
+#
+# IP ranges that have been mass port scanning, targeting infra, ignnored abuse complaints
+#
+#
