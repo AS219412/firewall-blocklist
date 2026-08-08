@@ -272,3 +272,7 @@
 143.198.150.150 # Shodan internet scanners
 143.198.225.197 # Shodan internet scanners
 143.198.238.87 # Shodan internet scanners
+155.94.254.7 # project25499 internet scanners
+155.94.254.133 # project25499 internet scanners
+155.94.254.143 # project25499 internet scanners
+
