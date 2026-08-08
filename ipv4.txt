@@ -3,7 +3,6 @@
 # IP ranges that have been mass port scanning, targeting infra, ignnored abuse complaints
 #
 #
-45.91.64.7/32 # HOSTERDADDY | Ignored abuse complaint
 104.152.52.0/24 # Security scanners commonly used by hackers
 207.90.244.0/24 # Shodan | Security scanners commonly used by hackers
 1.24.16.0/24     # Major abusive/scanner/hacking subnets
