@@ -5,4 +5,6 @@
 #
 AS215117 # HOSTERDADDY | Ignored abuse complaint
 AS398324 # Censys| Security scanners commonly used by hackers
+AS398705 # Censys| Security scanners commonly used by hackers
+AS398722 # Censys| Security scanners commonly used by hackers
 AS211298 # Driftnet | Security scanners commonly used by hackers
