@@ -4,3 +4,4 @@
 #
 #
 2001:41d0:33d:9200::400/124 # Onyphe Security Scanners
+2a14:f100::/29 # Onyphe Security Scanners
