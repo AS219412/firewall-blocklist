@@ -274,4 +274,9 @@
 155.94.254.7 # project25499 internet scanners
 155.94.254.133 # project25499 internet scanners
 155.94.254.143 # project25499 internet scanners
-
+91.196.152.0/24 # Onyphe Security Scanners
+91.230.168.0/24 # Onyphe Security Scanners
+91.231.89.0/24 # Onyphe Security Scanners
+94.231.206.0/24 # Onyphe Security Scanners
+185.156.50.0/24 # Onyphe Security Scanners
+195.184.76.0/24 # Onyphe Security Scanners
