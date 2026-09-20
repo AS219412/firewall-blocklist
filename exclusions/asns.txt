@@ -1,0 +1,14 @@
+AS219412 | OXIWAVE ISP ASN, GB
+AS218758 | Sister ASN to AS219412, GB
+AS32085 | Broadband VI Infra, VI
+AS22581 | Broadband VI User, VI
+AS14434 | VI Powernet, VI
+AS6661 | POST Luxembourg, LU
+AS47377 | Orange Lux & Belgium, BE
+AS25367 | Proximus Luxembourg S.A.,LU
+AS13037 | Zen Internet, GB
+AS35228 | Telefonica, GB
+AS25310 | Vodaphone, GB
+AS20001 | Charter Coms / Spectrum for LAX HI TX, US
+AS5650 | Verizon Enterprise, US
+AS4179 | LAXC Services
