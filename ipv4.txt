@@ -3,6 +3,8 @@
 # IP ranges that have been mass port scanning, targeting infra, ignnored abuse complaints
 #
 #
+63.250.52.29/32 # Excessive requests
+136.117.60.98/32 # Excessive requests
 104.152.52.0/24 # Security scanners commonly used by hackers
 207.90.244.0/24 # Shodan | Security scanners commonly used by hackers
 1.24.16.0/24     # Major abusive/scanner/hacking subnets
