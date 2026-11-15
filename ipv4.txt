@@ -3,6 +3,7 @@
 # IP ranges that have been mass port scanning, targeting infra, ignnored abuse complaints
 #
 #
+137.184.92.40/32 # Excessive requests
 63.250.52.29/32 # Excessive requests
 136.117.60.98/32 # Excessive requests
 104.152.52.0/24 # Security scanners commonly used by hackers
