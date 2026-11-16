@@ -1,0 +1,14 @@
+# Country Blocklist
+#
+# Countries blocked due to elevated network reputation risks,
+# suspicious traffic patterns, or a lack of legitimate business
+# or operational reasons for allowing connections.
+#
+RU # No legitimate traffic expected
+IN # Excessive CGNAT usage and abuse from compromised devices operating as VPN endpoints
+IR # No legitimate traffic expected
+SY # No legitimate traffic expected
+IQ # No legitimate traffic expected
+CN # No legitimate traffic expected
+AL # No legitimate traffic expected
+BR # High-risk network reputation
